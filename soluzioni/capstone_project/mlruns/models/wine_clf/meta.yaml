@@ -1,0 +1,10 @@
+aliases:
+  production: '1'
+creation_timestamp: 1791451400679
+deployment_job_id: null
+deployment_job_state: null
+description: 'Classificatore binario: vino di alta qualità (score >= 7). Pipeline
+  scikit-learn.'
+last_updated_timestamp: 1791451401030
+name: wine_clf
+workspace: default

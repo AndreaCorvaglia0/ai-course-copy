@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/andreacorvaglia/Library/Mobile Documents/com~apple~CloudDocs/Corsi/playground/ai-course-copy/capstone_project/mlruns/0/e589b1a882904fbbbbeb393dee511f87/artifacts
+end_time: 1791465168830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e589b1a882904fbbbbeb393dee511f87
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791465166335
+status: 3
+tags: []
+user_id: andreacorvaglia

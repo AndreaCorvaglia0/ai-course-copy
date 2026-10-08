@@ -1,0 +1,10 @@
+artifact_location: file:///Users/andreacorvaglia/Library/Mobile Documents/com~apple~CloudDocs/Corsi/playground/ai-course-copy/soluzioni/capstone_project/mlruns/164809370485087862/models/m-e0be2233386a40b9878b1888df1b7f2b/artifacts
+creation_timestamp: 1791451298126
+experiment_id: '164809370485087862'
+last_updated_timestamp: 1791451303151
+model_id: m-e0be2233386a40b9878b1888df1b7f2b
+model_type: null
+name: model
+source_run_id: 4a119d349dd94383b5e73ceec7aff9d6
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/andreacorvaglia/Library/Mobile Documents/com~apple~CloudDocs/Corsi/playground/ai-course-copy/soluzioni/capstone_project/mlruns/164809370485087862/4a119d349dd94383b5e73ceec7aff9d6/artifacts
+end_time: 1791451303158
+entry_point_name: ''
+experiment_id: '164809370485087862'
+lifecycle_stage: active
+run_id: 4a119d349dd94383b5e73ceec7aff9d6
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791451290752
+status: 3
+tags: []
+user_id: andreacorvaglia

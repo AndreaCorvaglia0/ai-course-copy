@@ -1,0 +1,16 @@
+creation_timestamp: 1791451400728
+current_stage: None
+deployment_job_state: null
+description: random_forest - ROC-AUC test 0.909, precision 0.772, recall 0.609
+last_updated_timestamp: 1791451400942
+model_id: m-b50092057fc94005a6d3345cdab60c0f
+name: wine_clf
+run_id: acb01a6ea83f4c2ab1d316adf8bb742c
+run_link: null
+source: models:/m-b50092057fc94005a6d3345cdab60c0f
+status: READY
+status_message: null
+storage_location: file:///Users/andreacorvaglia/Library/Mobile Documents/com~apple~CloudDocs/Corsi/playground/ai-course-copy/soluzioni/capstone_project/mlruns/164809370485087862/models/m-b50092057fc94005a6d3345cdab60c0f/artifacts
+user_id: null
+version: 1
+workspace: default
